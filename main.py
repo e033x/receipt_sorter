@@ -12,6 +12,8 @@ import config as cfg
 #   "tag" = for project X, or to vendor Y etc. Possibly useless.
 #   "hsh" = four digit hexadecimal hash, because:
 #           filename duplications is a pain in the ass. #primePoetry
+#
+#A typical filename would be "MW211119-s02h-Wix" (MaterialsWebpage)(date)-(hash)-(Vendor)
 
 #1.3 ------------------------------
 
