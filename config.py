@@ -1,2 +1,2 @@
-path = {"in_folder": r"C:\Users\Eirik\Desktop\Python\Bokføringssystem backup\Input",
-        "out_folder": r"C:\Users\Eirik\Desktop\Python\Bokføringssystem backup\Output"}
+path = {"in_folder": r"C:\Users\Username\Desktop\Python\receipt_sorter\Input",
+        "out_folder": r"C:\Users\Username\Desktop\Python\receipt_sorter\Output"}
